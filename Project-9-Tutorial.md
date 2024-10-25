@@ -15,6 +15,7 @@ Turn your micro:bit into a **Rock Paper Scissors** game that you can play with y
 
 Turn your micro:bit into a **Rock Paper Scissors** game that you can play with your friends!
 
+
 ## {Connection @unplugged}
 
 **Connection Step 2**
