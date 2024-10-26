@@ -40,45 +40,45 @@ Place 5 1kohm Resistor one by one an show in the below steps
 
 ![Image 5](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S5.png)
 
-![Image 6](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S6.png)
+![Image 6](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S6.png)
 
-![Image 7](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S7.png)
+![Image 7](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S7.png)
 
 ## {Connection @unplugged}
 **Step 4**  
 Connect the **3v** pin of Microbit to the Resistor as shown
-![Image 8](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S8.png)
+![Image 8](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S8.png)
 
 ## {Connection @unplugged}
 **Step 5**  
 Connect the Pushbutton Pins One by one as shown below in an Series connection  
-![Image 9](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S9.png)
+![Image 9](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S9.png)
 
-![Image 10](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S10.png)
+![Image 10](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S10.png)
 
-![Image 11](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S11.png)
+![Image 11](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S11.png)
 
-![Image 12](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S12.png)
+![Image 12](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S12.png)
 
 ## {Connection @unplugged}
 **Step 6**  
 Connect the Pushbutton series connection with Microbit Pin **P0**
-![Image 13](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S13.png)
+![Image 13](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S13.png)
 
 ## {Connection @unplugged}
 **Step 7**  
 Add a resistor as Shown
-![Image 14](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S14.png)
+![Image 14](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S14.png)
 
 ## {Connection @unplugged}
 **Step 8**  
 Coonnect the Onter end of the resistor witht the **GND** of ** Microbit**
-![Image 15](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S15.png)
+![Image 15](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S15.png)
 Turn your micro:bit into a **Rock Paper Scissors** game that you can play with your friends!
 
 ## {Start Programming @unplugged}
 Connect you **Microbit** with your Computer
-![Lets Start Programming Image](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/LSP.png)
+![Lets Start Programming Image](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/LSP.png)
 
  
 
@@ -87,7 +87,7 @@ Connect you **Microbit** with your Computer
 First we need to make a variable to keep track of value read from **P0**.   
 A variable is a container for storing values. Click on the ``||variables:Variables||`` category in the Toolbox. Click on the **Make a Variable** button. Give your new variable the name "Value" and click Ok.
 
-![A animation that shows how to create a variable](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S0.gif)
+![A animation that shows how to create a variable](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S0.gif)
 
 ```blocks
 basic.forever(function () {
