@@ -22,23 +22,23 @@ By using buttons and a buzzer, you can play different musical notes. Pressing a 
 
 **Step 1**  
 Grab your **Microbit**, **Breadboard** and move to next Step ..
-![Image 1](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S1.png)
+![Image 1](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S1.png)
 
 ## {Connection @unplugged}
 
 **Step 2**  
 Place 5 Pushbuttons on the breadboard as shown below  
-![Image 2](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S2.png)
+![Image 2](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S2.png)
 
 ## {Connection @unplugged}
 
 **Step 3**  
 Place 5 1kohm Resistor one by one an show in the below steps
-![Image 3](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S3.png)
+![Image 3](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S3.png)
 
-![Image 4](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S4.png)
+![Image 4](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S4.png)
 
-![Image 5](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S5.png)
+![Image 5](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/S5.png)
 
 ![Image 6](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/S6.png)
 
