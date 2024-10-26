@@ -13,7 +13,7 @@ By using buttons and a buzzer, you can play different musical notes. Pressing a 
 
 ## {Components @unplugged}
 
-![Cartoon of the Rock Paper Scissors game](https://edusharks.github.io/Micorbit-Basics-tutorial/Assets/Piano/CN.png)
+![Cartoon of the Rock Paper Scissors game](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/CN.png)
 
 
 ## {Connection @unplugged}
