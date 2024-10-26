@@ -4,7 +4,7 @@
 
 **Transform your Microbit into a Piano ! **
 
-![Piano Image](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/CN.png)
+![Piano Image](https://Edusharks.github.io/Micorbit-Basics-tutorial/Assest/Piano/Piano.gif)
 
 Turn your Microbit into a fun piano !
  
